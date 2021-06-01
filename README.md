@@ -25,11 +25,9 @@
 
 ## Learning
 
-<a href="#"><img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" alt="html5" width="40" height="40" style="max-width:100%;"></img></a>
+<img src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png" alt="html5" width="40" height="40" style="max-width:100%;" />
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css3" width="40" height="40" style="max-width:100%" />
 
-<a href="#"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css3" width="40" height="40" style="max-width:100%"></img></a>
-
-## 
 
 
 ![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizlipe&show_icons=true&theme=dark)
