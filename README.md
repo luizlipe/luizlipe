@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Luiz Felipe
 - I live in :brazil:, northeeast :sunglasses::sunrise:
-- I am the selection operator at Owens Illinois do Brasil :factory_worker:
+- I am the selection operator at Owens Illinois American South :factory_worker:
 - Web development student at b7web.com :technologist:
 
 ## Connect with me:
@@ -27,9 +27,11 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40" style="max-width:100%;"/>
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="html5" width="40" height="40" style="max-width:100%;"/>
 
 
-![Luiz Felipe github stats](https://github-readme-stats.vercel.app/api?username=luizlipe&show_icons=true&include_all_commits=true&theme=onedark")
+![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+
 
 
 
