@@ -1,4 +1,6 @@
-### Olá!! Eu sou o Luiz Felipe 💻💻
+### Luiz Felipe 💻💻
+
+#### A vida é uma coleção gigantes de variáveis!
 <div>
 <a href="https://github.com/luizlipe" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=luizlipe&show_icons=true&include_all_commits=true&theme=onedark" style="max-width=100%;"/>
