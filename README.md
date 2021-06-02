@@ -31,7 +31,6 @@
 <img align="center" alt="luiz-facebook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="max-width:100%" />
 
 
-![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizlipe&show_icons=true&theme=dark)
 
 
 
