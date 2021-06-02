@@ -23,10 +23,7 @@
     />
 </a>
 
-## Learning
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="html5" width="40" height="40" style="max-width:100%;" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="css3" width="40" height="40" style="max-width:100%;" />
 
 
 
