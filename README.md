@@ -4,6 +4,13 @@
 - I am the selection operator at Owens Illinois American South :factory_worker:
 - Web development student at b7web.com :technologist:
 
+## Learning
+
+<img align="center" alt="luiz-facebook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="max-width:100%" />
+
+<img align="center" alt="luiz-facebook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="max-width:100%" />
+
+
 ## Connect with me:
 
 <a href="https://www.linkedin.com/in/luiz-felipe-9b0680185/" target="_blank">
@@ -24,11 +31,7 @@
 </a>
 
 
-## Learning
 
-<img align="center" alt="luiz-facebook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="max-width:100%" />
-
-<img align="center" alt="luiz-facebook" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="max-width:100%" />
 
 
 
