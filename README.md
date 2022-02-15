@@ -4,7 +4,7 @@
 * Selection Operator at Owens Illinois American South 🏭
 * Web development student at b7web.com.br 💻 🖱️
 
-https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+[!Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 [![Linkedin Badge](https://img.shields.io/badge/-luizfelipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-felipe-9b0680185/)](https://www.linkedin.com/in/luiz-felipe-9b0680185/)
 [![Instagram Badge](https://img.shields.io/badge/-olipedev-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/olipedev/)](https://www.instagram.com/olipedev/)
 [![Gmail Badge](https://img.shields.io/badge/-lipedevweb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lipedevweb@gmail.com)](mailto:lipedevweb@gmail.com)
