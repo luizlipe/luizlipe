@@ -5,7 +5,7 @@
 * Web development student at b7web.com.br 💻 🖱️
 
 [![Linkedin Badge](https://img.shields.io/badge/-luizfelipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-felipe-9b0680185/)](https://www.linkedin.com/in/luiz-felipe-9b0680185/)
-[![Instagram Badge](https://img.shields.io/badge/-lipeomago-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/olipedev/)](https://www.instagram.com/olipedev/)
+[![Instagram Badge](https://img.shields.io/badge/-olipedev-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/olipedev/)](https://www.instagram.com/olipedev/)
 [![Facebook Badge](https://img.shields.io/badge/-luizfelipe-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100002840905507)](https://www.facebook.com/profile.php?id=100002840905507)
 [![Gmail Badge](https://img.shields.io/badge/-lipedevweb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lipedevweb@gmail.com)](mailto:lipedevweb@gmail.com)
 
