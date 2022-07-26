@@ -1,7 +1,7 @@
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,I am Luiz Felipe
 
 * I live in 🇧🇷, northeast 😎 🌅
-* Selection Operator at Owens Illinois American South 🏭
+* Quality Inspector at Owens Illinois South America 🏭
 * Web development student at b7web.com.br 💻 🖱️
 
 
